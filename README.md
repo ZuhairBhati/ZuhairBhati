@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zuhair%20Bhati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20SQL%20%26%20Python%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zuhair%20Bhati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20SQL%20%26%20Python%20Enthusiast&descAlignY=55&descSize=16" width="100%"/> -->
 
+# Hi 👋, I'm Zuhair Bhati
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Insights+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -63,11 +64,9 @@ Hey! I'm **Zuhair**, a Data Analyst & BI Developer with **2 years of professiona
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZuhairBhati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZuhairBhati&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=ZuhairBhati&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhairBhati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhairBhati&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
