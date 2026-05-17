@@ -17,17 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-```python
-zuhair = {
-    "name"      : "Zuhair Bhati",
-    "location"  : "India 🇮🇳",
-    "role"      : "Data Analyst & BI Developer",
-    "focus"     : ["A/B Testing", "Customer Segmentation", "Data Warehousing"],
-    "tools"     : ["Python", "SQL", "Power BI", "Jupyter Notebook"],
-    "currently" : "🎯 Focusing on building impactful data projects",
-    "linkedin"  : "linkedin.com/in/zuhair-bhati",
-}
-```
+Hey! I'm **Zuhair**, a Data Analyst & BI Developer with **2 years of professional experience** turning messy data into clear, actionable insights. I specialize in **SQL, Python, Excel, and Power BI**, and I enjoy building everything from data warehouses, reports, automation. I'm a **Microsoft Certified: Fabric Analytics Engineer (DP-600)** and currently exploring the cloud with **Microsoft Azure, Databricks & PySpark**.🚀
 
 ---
 
@@ -36,17 +26,16 @@ zuhair = {
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### 📊 Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Looker-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🗄️ Databases & Data Engineering
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📦 Libraries & Frameworks
@@ -56,11 +45,17 @@ zuhair = {
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+### ☁️ Cloud & Big Data
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azuredataexplorer&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -69,7 +64,7 @@ zuhair = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZuhairBhati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZuhairBhati&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=ZuhairBhati&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhairBhati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 
@@ -90,13 +85,10 @@ zuhair = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎓 Certifications
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZuhairBhati&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+- 🏅 [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)
+- 🏅 [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/Zuhair-8114/D94E3D2704F15EF5?sharingId=128C20E0BF98CBBA)
 
 ---
 
