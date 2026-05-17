@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zuhair%20Bhati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20SQL%20%26%20Python%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Insights+%F0%9F%93%8A;A%2FB+Testing+%7C+RFM+%7C+Data+Warehousing;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Insights+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ZuhairBhati&style=for-the-badge&color=0e75b6)
